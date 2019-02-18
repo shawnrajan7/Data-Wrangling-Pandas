@@ -8,6 +8,7 @@ Following are the core Data Wrangling steps performed in the project:
 4. Data Manipulation
 5. Regular Expressions
 
+--------------Description-------------- 
 1. Data Acquisition Objectives
   - How to import data in different formats? (read_excel, read_csv)
   - How to import multiples files for storage and access? (store filenames in array)
